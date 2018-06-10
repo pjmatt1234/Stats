@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StatsJAR">
+    <output-path>$PROJECT_DIR$/out/artifacts/StatsJAR</output-path>
+    <root id="archive" name="StatsJAR.jar">
+      <element id="module-output" name="Stats" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-math3-3.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
